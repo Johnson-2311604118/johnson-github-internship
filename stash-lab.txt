@@ -1,1 +1,1 @@
-Initial content for Git stash practice. 
+Modified content for Git stash practice. 
