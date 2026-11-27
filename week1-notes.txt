@@ -1,0 +1,13 @@
+Week 1 Internship Notes
+
+Student Name: JOHNSON KELECHI WISDOM
+
+Tasks Completed:
+1. Git Installation
+2. Git User Configuration
+3. Repository Cloning
+4. Repository Status Checking
+5. Git and GitHub Practical Exercises
+
+Learning Outcome:
+Learned basic Git commands and repository management.
