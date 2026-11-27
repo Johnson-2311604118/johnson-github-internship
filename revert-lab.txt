@@ -1,1 +1,1 @@
-Modified content for Git revert practice. 
+Initial content for Git revert practice. 
