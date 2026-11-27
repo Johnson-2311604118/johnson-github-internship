@@ -1,1 +1,1 @@
-Original content for conflict resolution practice. 
+Feature branch version of the content. 
