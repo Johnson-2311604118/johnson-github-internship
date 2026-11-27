@@ -1,0 +1,18 @@
+Week 2 Internship Notes
+
+Student Name: JOHNSON KELECHI WISDOM
+
+Topic: GitHub Branching and Collaboration
+
+Tasks Completed:
+1. Repository Status Verification
+2. Local and Remote Branch Checking
+3. Git Remote Configuration Checking
+4. Created a New Feature Branch
+5. Switched to feature/week2-collaboration
+
+Current Branch:
+feature/week2-collaboration
+
+Learning Outcome:
+Learned how to manage Git branches and create a separate feature branch for collaborative development.
